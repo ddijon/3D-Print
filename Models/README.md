@@ -1,7 +1,7 @@
 # Models
 
 Liste des modèles:
-  Anneau   : Anneaux pour tringle de douche
+  Anneau   : Anneaux pour tringle de douche</br>
   BoutPort : Boutton pour porte armoire ou tiroir
   Cbox     : Custom Box, Boite de taille paramétrisable
   DerivBox : Boite de dérivation paramétrisable
