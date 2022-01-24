@@ -2,8 +2,8 @@
 
 Liste des modèles:
   Anneau   : Anneaux pour tringle de douche</br>
-  BoutPort : Boutton pour porte armoire ou tiroir
-  Cbox     : Custom Box, Boite de taille paramétrisable
-  DerivBox : Boite de dérivation paramétrisable
-  GClip    : Clip de rétention pour sangle de guitare
-  Poignee  : grande ou petite poignée pour armoire   
+  BoutPort : Boutton pour porte armoire ou tiroir</br>
+  Cbox     : Custom Box, Boite de taille paramétrisable</br>
+  DerivBox : Boite de dérivation paramétrisable</br>
+  GClip    : Clip de rétention pour sangle de guitare</br>
+  Poignee  : grande ou petite poignée pour armoire</br> 
